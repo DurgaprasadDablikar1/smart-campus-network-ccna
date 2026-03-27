@@ -68,7 +68,9 @@ The network consists of multiple subnets representing different departments:
 
 
 
-📷 \*(Add your topology screenshot as `topology.png` here)\*
+📷 \*( topology screenshot as `topology.png` here)\*
+   <img width="1920" height="1080" alt="Screenshot 2026-03-27 112153" src="https://github.com/user-attachments/assets/af4f4437-5301-4743-a609-3ad53b84107e" />
+
 
 
 
