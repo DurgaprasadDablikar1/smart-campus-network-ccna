@@ -345,9 +345,6 @@ ip access-group allow-ceo-hod out
 \## 👨‍💻 Author
 
 
-
-\*\*Your Name\*\*
-
 DABLIKAR DURGA PRASAD
 
 
